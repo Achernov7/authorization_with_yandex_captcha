@@ -1,0 +1,8 @@
+{
+  "name": "rmvc/vc",
+  "autoload": {
+    "psr-4": {
+      "rmvc\\vc\\": "/"
+    }
+  }
+}

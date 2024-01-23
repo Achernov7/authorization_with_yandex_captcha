@@ -1,0 +1,43 @@
+._auth_box_content_block{
+    min-width: 520px;
+    margin-bottom: 50px;
+}
+
+._auth_box_title{
+    text-align: center;
+}
+
+._auth_box_text{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    font-size: 20px;
+}
+
+._auth_box_input{
+    display: block;
+    width: 92%;
+    margin: 10px auto;
+    border-radius: 8px;
+    height: 20px;
+    padding: 5px 10px;
+}
+
+._auth_login_box_button{
+    display: block;
+    width: 72%;
+    height: 30px;
+    border-radius: 10px;
+    margin: 30px auto;
+}
+
+._auth_box_content_block_buttonWrap{
+    margin-top: 25px;
+    display: flex;
+    width: 520px;
+    justify-content: center;
+}
+
+.smart-captcha {
+    width: 350px;
+}

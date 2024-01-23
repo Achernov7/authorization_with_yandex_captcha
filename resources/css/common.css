@@ -1,0 +1,46 @@
+html{
+    height: 100%;
+    padding: 0;
+    margin: 0%;
+}
+body {
+    padding: 0;
+    height: 100%;
+    margin: 0%;
+}
+
+._component{
+    height: 100%;
+    background: linear-gradient(#ca6363, #727acc);
+}
+
+._component_box{
+    height: 98%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+._component_box_content{
+    display: flex;
+    justify-content: center;
+}
+
+._component_rightUp{
+    display: flex;
+    justify-content: flex-end;
+    height: 2%;
+    margin-right: 30px;
+    position: relative;
+}
+
+._component_rightUp_text{
+    margin-right: 15px;
+    font-size: 17px;
+}
+
+._component_rightUp_text:hover{
+    color:white;
+    cursor: pointer;
+    text-decoration: underline;
+}

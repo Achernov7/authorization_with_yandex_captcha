@@ -1,0 +1,47 @@
+._component_box_content_profile{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+    text-align: center;
+}
+
+._component_box_content_text{
+    margin-bottom: 25px;
+}
+
+._component_box_content_text_inline{
+    font-size: 19px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+._component_box_content_input{
+    width: 75%;
+    height: 20px;
+    margin: 0 auto;
+    border-radius: 8px;
+    padding: 4px;
+}
+
+._component_box_content_submit{
+    height: 30px;
+    width: 75%;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+._component_box_content_btns{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+._component_box_content_btn{
+    height: 30px;
+    width: 165px;
+    margin: 0px 10px;
+    border-radius: 20px;
+    margin-top: 10px;
+    display: inline;
+}
