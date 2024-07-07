@@ -20,4 +20,4 @@ php command migrate
 3) Устанавливаем композер:
 composer install
 
-4) Вставляем ключи в массив в папке config в файле capctha от yandexCapctha.
+4) Вставляем ключи в массив в config/capctha.
